@@ -44,5 +44,5 @@ Bulk orders are automatically processed every midnight, updating financial data 
 
 ---
 
-## 📁 Project Structure
+
 
